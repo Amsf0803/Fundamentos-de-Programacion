@@ -1,0 +1,22 @@
+El lenguaje selecto sera C.
+
+Estructura de un programa en C
+    1. Directivas del pre-procesador
+        #include y #define
+    2. Delcaracion de Prototipos
+        (Declaracion de funciones)
+    3. Declaracion de variables globales
+    4. Funciones definidas por el usuario
+    6. Funcion Principal 
+        main()
+
+Identificadores
+    Empezar los nombres de funciones y variables con una letra minuscula
+
+    Las constantes escritas con #define van con mayusculas como 
+        #define PI 3.1416
+
+    Las palabras intermedias comienzan con mayusculas.
+        # sumaMatrices
+    Utilizar el subguion para separar palabras intermedias
+
