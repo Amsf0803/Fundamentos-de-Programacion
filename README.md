@@ -22,7 +22,7 @@ Si entregas los trabajos sin analizarlos, te estarás saltando el proceso de apr
 * Apoyarte como guía en caso de que te atores con algún error.
 * Practicar, comparar tus resultados y estudiar para los exámenes.
 
-*Tip:** Si de plano necesitas usar la misma solución, **escríbela tú mismo línea por línea**. Aunque sea el mismo código tal cual, el simple hecho de transcribirlo y estructurarlo te obligará a procesar la lógica y entender qué hace cada parte. 
+**Tip:** Si de plano necesitas usar la misma solución, **escríbela tú mismo línea por línea**. Aunque sea el mismo código tal cual, el simple hecho de transcribirlo y estructurarlo te obligará a procesar la lógica y entender qué hace cada parte. 
 
 ---
 
