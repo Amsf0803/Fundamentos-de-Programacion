@@ -1,0 +1,35 @@
+Operadores:
+
+Se clasifican de acuerdo al tipo o variable que utilizan
+
+Pueden haber operadores unarios, binarios y ternarios.
+    Operadores Aritmeticos
+    Operadores Relacionales
+    Operadores Logicos
+    Operadores de Asignacion
+    Operadores de Direccion
+    Operadores de Bits
+
+Operadores Aritmeticos:
+    
+    Suma
+    Resta
+    Multiplicacion
+    Division 
+    Modulo -> Nos da el residuo de la Division
+    Cast -> Cambia temporalmente el tipo de variable (ej. de int a float)
+
+Operadores Relacionales:
+
+    == -> Igual a
+    != -> Diferente de
+    > -> Mayor que
+    < -> Menor que
+    >=  -> Mayor o igual que
+    <=  -> Menor o igual que
+
+Operadores Logicos:
+
+    &&  -> AND
+    ||  -> OR
+    |  -> NOT 
