@@ -1,0 +1,28 @@
+Precedencia de Operadores
+
+    () [] ->    -->   Alta prioridad
+
+    ! ~ + - ++ -- &    --> Unarios
+
+    * / % + -   --> Aritmeticos
+
+    << >>   --> Corrimiento de bits
+
+    <  <=  >  >=  ==  !=   --> Relacionales
+
+    & ^ | && || 
+
+
+
+
+Operador    Abreviado   No Abreviado
+
+    =           a=2;         a=2;
+    ++          n++;        n = n+1;
+    --          n--;        n = n-1;
+    +=                      n = n+2
+    -=
+    *=
+    /=
+    %=
+
