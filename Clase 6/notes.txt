@@ -1,0 +1,33 @@
+Operadores de Direccion:
+
+    *   --> Operador indireccion;
+            Devuelve el valor que esta almacenado en una direccion de memoria.
+    
+    &   --> Operador direccion;
+            Devuelve la direccion de memoria de una variable.
+
+
+
+La programacion estructurada:
+
+Secuencia : Normal, una instruccion tras otra.
+
+Seleccion: 
+
+    if (simple):
+
+        if(condicion){
+            Instrucciones;
+        }
+    
+    if .. else (doble):
+     
+        if(condicion){
+            Instrucciones si es que se cumple;
+        }else{
+            Instrucciones si es que no se cumple;
+        }
+     
+    if ... else if ... else (multiple): 
+
+    switch:

@@ -1,0 +1,21 @@
+Estructuras selectivas:
+
+Una estructura selectiva en c, que facilita
+implementar algunas decisiones multiples
+cuando se presentan todas con base en la 
+evaluacion de una expresion es switch-case
+
+switch(expresion)
+{
+    case exp-constante1: <accion 1>;
+                    break;
+    
+    case exp-constante2: <accion 2>;
+                    break;
+    
+    case exp-constanteN: <accion N>;
+                    break;
+    default: <accion M>;
+    
+
+}
